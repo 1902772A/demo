@@ -1,6 +1,5 @@
 {
   "posts": [
-   [
   {
     "albumId": 1,
     "id": 1,
@@ -36,4 +35,4 @@
     "url": "https://via.placeholder.com/600/f66b97",
     "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
   }
-     ]
+ ]
