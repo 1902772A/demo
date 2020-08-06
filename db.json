@@ -24,16 +24,44 @@
   {
     "albumId": 1,
     "id": 4,
-    "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
-    "url": "https://via.placeholder.com/600/d32776",
-    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+    "title": "Healthy Diets Recipes",
+    "url": "https://media0.giphy.com/media/1wn4W0NiirVR1fUbbP/giphy.gif",
+    "thumbnailUrl": ""
   },
   {
     "albumId": 1,
     "id": 5,
-    "title": "natus nisi omnis corporis facere molestiae rerum in",
-    "url": "https://via.placeholder.com/600/f66b97",
-    "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+    "title": "Healthy Foods",
+    "url": "https://media1.giphy.com/media/Sgba7n3XR7yiA/giphy.gif",
+    "thumbnailUrl": ""
+  },
+    {
+    "albumId": 1,
+    "id": 6,
+    "title": "Wholemeal Is What You Should Go For",
+    "url": "https://media1.giphy.com/media/l0Exh5setxQl10lUI/giphy.gif",
+    "thumbnailUrl": ""
+  },
+    {
+    "albumId": 1,
+    "id": 7,
+    "title": "What Should Be In Your Diet?",
+    "url": "https://media3.giphy.com/media/H6hZQgKR50nOlOVbT1/giphy.webp?cid=ecf05e47m70nt7dsxy3z0z6huwjjsua1ta55rlap98r0geta&rid=giphy.webp",
+    "thumbnailUrl": ""
+  },
+    {
+    "albumId": 1,
+    "id": 8,
+    "title": "Don'ts",
+    "url": "https://media0.giphy.com/media/NvGm4wbHod4He/giphy.webp?cid=ecf05e47bukmkgvv5q28pk6ysuto5xu0nynfrqvddizk8spn&rid=giphy.webp",
+    "thumbnailUrl": ""
+  },
+    {
+    "albumId": 1,
+    "id": 9,
+    "title": "portion",
+    "url": "https://media0.giphy.com/media/1oFqxMYv5JQvuFtX8o/200.webp?cid=ecf05e47xbbfmd2psrnegu0xg13sarxhxbz2yshlbi4gbpcd&rid=200.webp",
+    "thumbnailUrl": ""
   }
  ]
 }
